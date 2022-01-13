@@ -1,26 +1,26 @@
-// let js = 'amazing';
-// console.log(40 + 8 + 23 - 10);
+let js = 'amazing';
+console.log(40 + 8 + 23 - 10);
 
-// console.log("Jonas");
-// console.log(23);
+console.log("Jonas");
+console.log(23);
 
-// let firstName = "Jonas";
-// let PI = 3.14125
+let firstName = "Jonas";
+let PI = 3.14125
 
-// //good variable names
-// let myFirstJob = 'Programmer';
-// let myCurrentJob = 'Teacher';
+//good variable names
+let myFirstJob = 'Programmer';
+let myCurrentJob = 'Teacher';
 
-// //bad variable names
-// let job1 = 'programmer';
-// let job2 = 'teahcer';
+//bad variable names
+let job1 = 'programmer';
+let job2 = 'teahcer';
 
-// //console.log print statement
-// console.log(firstName);
-// console.log(firstName);
-// console.log(firstName);
-// console.log(firstName);
-// console.log(firstName);
+//console.log print statement
+console.log(firstName);
+console.log(firstName);
+console.log(firstName);
+console.log(firstName);
+console.log(firstName);
 
 // declaring a variable allows you to change information in multiple places at once
 
